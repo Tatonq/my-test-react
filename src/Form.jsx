@@ -106,7 +106,7 @@ const Form = () => {
         lotterLogic ? 
         <div className='rewardBord' style={{marginBottom: '5px'}}>
           <div className="row justify-content-start">
-            <div className="col col-md-4" style={{paddingTop: '15px'}}>
+            <div className="col col-md-6" style={{paddingTop: '15px'}}>
               {lotValue} {RewardString}
             </div>
           </div>
