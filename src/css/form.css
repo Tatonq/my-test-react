@@ -1,0 +1,42 @@
+#form {
+    border: 2px solid black;
+}
+.header-form-text {
+    color: #EBF7F9;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.header-form-bg{
+    height: 70px;
+    width: auto;
+    background: #0DCAF0;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 40px;
+    text-align: left;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.inputClass {
+    border: 2px solid black;
+    font-weight: 700;
+}
+
+.form-control input:focus{
+    outline: none;
+}
+
+.rewardBord {
+    /* justify-items: center; */
+    font-size: 20px;
+    height: 60px;
+    font-weight: 700;
+    background: #FFC107;
+}

@@ -1,0 +1,12 @@
+.table-flex {
+    display: flex;
+    width: 800px;
+    height: 400px;
+}
+#titleName {
+    font-size: 17px;
+}
+th, td {
+    font-size: 24px;
+    font-weight: 700;
+}
